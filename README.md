@@ -8,5 +8,5 @@ I worked on multiple programming languages and technologies, currently learning 
 
 *   🌍  I'm based in Puducherry, India
 <!-- *   🖥️  See my portfolio at [My Portfolio](http://vinoprime.netlify.app) -->
-*   ✉️  You can contact me at [vinothprofessional@outlook.com](mailto:vinothprofessional@outlook.com)
+<!-- *   ✉️  You can contact me at [vinothprofessional@outlook.com](mailto:vinothprofessional@outlook.com) -->
 *   🧠  I'm learning Golang/Rust and Python for Ai/Ml
