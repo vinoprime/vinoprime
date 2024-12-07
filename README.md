@@ -28,7 +28,7 @@ I worked on multiple programming languages and technologies, currently learning 
 </p>
 
 <p>
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/less-colored.svg" width="36" height="36" alt="Less CSS" />
+   <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/less-colored.svg](https://lesscss.org/public/img/less_logo.png)" width="36" height="36" alt="Less CSS" />
 </p>
 
 
